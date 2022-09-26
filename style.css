@@ -1,0 +1,113 @@
+.q {
+    display: flex;
+
+}
+.p {
+    padding: 10px;
+    position: relative;
+    left: 500px;
+}
+.h {
+    position: relative;
+    left: 50px;
+}
+.qq {
+    position: relative;
+    width: 400px;
+}
+.qw {
+    position: relative;
+    bottom: 331px;
+    left: 430px;
+    height: 326px;
+}
+.qqw {
+    position: relative;
+    bottom: 661px;
+    height: 326px;
+    left: 900px;
+}
+.ss {
+    position: relative;
+    bottom: 830px;
+    padding: 20px;
+    left: 20px;
+}
+.sss {
+    position: relative;
+    bottom: 990px;
+    padding: 20px;
+    left: 450px;
+}
+.ssss {
+    position: relative;
+    bottom: 1120px;
+    left: 930px;
+}
+.pppp {
+    position: relative;
+    bottom: 1250px;
+    background-color: rgba(255, 255, 255, 0.4);
+    width: 20px;
+    left: 20px;
+    height: 20px;
+}
+.ppppp {
+    position: relative;
+    bottom: 1300px;
+    background-color: rgba(255, 255, 255, 0.4);
+    width: 20px;
+    left: 20px;
+    height: 20px;
+    left: 1300px;
+}
+.box {
+    position: relative;
+    bottom: 1100px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width: 1000px;
+    left: 150px;
+    height: 100px;
+}
+.w {
+    position: relative;
+    left: 850px;
+    bottom: 70px    ;
+    padding: 10px;
+    border: none;
+    background-color: rgb(255, 136, 0);
+    color: white;
+}
+.img {
+    position: relative;
+    width: 700px;
+}
+.iimg {
+    position: relative;
+    bottom: 1000px;
+}
+.jjpg {
+    position: relative;
+    width: 700px;
+}
+.d {
+    position: relative;
+    bottom: 40px;
+    left: 340px;
+}
+.l {
+    border: 1px solid gray;
+    color: gray;
+    background-color: white;
+    padding: 10px;
+}
+.oo {
+    position: relative;
+    bottom: 2150px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    
+}
